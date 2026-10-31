@@ -1,3 +1,2 @@
-program/* linguist-vendored
-*.hex linguist-generated
-*.elf linguist-generated
+program/** linguist-vendored
+program/** linguist-generated=true
