@@ -1,2 +1,6 @@
 program/** linguist-vendored
 program/** linguist-generated=true
+
+*.asm linguist-detectable=false
+*.hex linguist-generated=true
+*.elf linguist-generated=true
