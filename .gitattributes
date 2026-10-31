@@ -1,0 +1,3 @@
+program/* linguist-vendored
+*.hex linguist-generated
+*.elf linguist-generated
